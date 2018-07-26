@@ -1,0 +1,18 @@
+{
+  "name": "ie9placeholder",
+  "version": "1.0.0",
+  "description": "to use placeholder for input in ie9",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["ie9", "placeholder"],
+  "author": "chenmr925",
+  "license": "ISC",
+  "repository": "https://github.com/chenmr925/ie9placeholder.git",
+  "files": [
+    "README.md",
+    "index.js",
+    "src/"
+  ]
+}
