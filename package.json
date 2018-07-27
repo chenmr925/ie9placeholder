@@ -1,6 +1,6 @@
 {
   "name": "ie9placeholder",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "to use placeholder for input in ie9",
   "main": "index.js",
   "scripts": {
