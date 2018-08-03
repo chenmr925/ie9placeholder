@@ -77,4 +77,5 @@ PlaceHolderPolyfill.prototype.init = function() {
 }
 
 // 导出接口
-module.exports = new PlaceHolderPolyfill();
+var placeholderObj = new PlaceHolderPolyfill();
+export default placeholderObj;
